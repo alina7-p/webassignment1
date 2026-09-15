@@ -41,5 +41,7 @@ Screenshots:
 <img width="2880" height="1626" alt="image" src="https://github.com/user-attachments/assets/f70b73c5-1422-495f-b282-c59c9132c42e" />
 <img width="2880" height="1626" alt="image" src="https://github.com/user-attachments/assets/3b306461-1258-485c-ad07-0456b09e5914" />
 
+! GitHub Pages Link: [https://alina7-p.github.io/webassignment1/](https://alina7-p.github.io/webassignment1/)
+
 Final reflection:
 During this assignment, I successfully applied front-end development basics by connecting semantic HTML tags with expressive CSS properties. Understanding the CSS Box Model and how positioning/floating works gave me clearer insight into modern layout design. Overall, building this project reinforced my knowledge of web architecture and static deployment.
